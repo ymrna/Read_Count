@@ -8,4 +8,4 @@
 2. Open Project pada VB, pilih Project ini
 3. Run Program
 4. Klik 'Browse' untuk memilih file
-5. Klik 'Hitung' untuk menghitung angka dalam file '.txt'
+5. Klik 'Hitung' untuk menghitung angka dalam file ".txt"
